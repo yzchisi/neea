@@ -1,0 +1,39 @@
+# 依赖目录
+node_modules/
+
+# 构建产物
+dist/
+dist-ssr/
+
+# 日志文件
+*.log
+npm-debug.log*
+
+# 本地环境配置
+*.local
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器配置
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ESLint 缓存
+.eslintcache
+
+# TypeScript 构建信息
+*.tsbuildinfo
+
+# Vite 时间戳
+*.timestamp-*-*.mjs
+
+# 项目内部文档（不推送）
+AGENTS.md
+note/

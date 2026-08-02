@@ -1,0 +1,35 @@
+@use './variables' as *;
+
+// 弹性布局混入
+@mixin flex-item($justify: center, $align: center) {
+  display: flex;
+  justify-content: $justify;
+  align-items: $align;
+}
+
+// 输入框混入
+@mixin form-input($width) {
+  width: $width;
+  background: none;
+  font-size: 1rem;
+  line-height: 1rem;
+  color: #333;
+  padding: .2813rem 0;
+  border: none;
+  border-radius: 0;
+}
+
+// 移动端按钮混入
+@mixin home-form-btn($width) {
+  display: block;
+  width: $width;
+  height: 9vmin;
+  background: $color-primary;
+  margin: auto;
+  border: none;
+  border-radius: 1.5vmin;
+  font-size: 4vmin;
+  line-height: 9vmin;
+  color: #fff;
+  text-align: center;
+}
