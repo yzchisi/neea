@@ -18,6 +18,23 @@
       "noticeTime": "2月27日6时至3月1日17时"
     },
     {
+      "id": 1043,
+      "mainTitle": "2026年上半年",
+      "subject": "CET6",
+      "uname": "赵五",
+      "idCardl": "012345678912345678",
+      "school": "清华大学",
+      "scoreRoport": 261223033003945,
+      "writtenExamNum": 430331252120124,
+      "writtenTotal": 559,
+      "writtenListening": 185,
+      "writtenReading": 223,
+      "writtenWriting": 151,
+      "oralExamNum": "--",
+      "oralLevel": "--",
+      "noticeTime": "8月17日6时至8月19日17时"
+    },
+    {
       "id": 1002,
       "mainTitle": "2026年上半年",
       "subject": "CET6",
