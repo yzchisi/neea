@@ -5,7 +5,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vite.dev/config/
 export default defineConfig({
-  // GitHub Pages 部署基础路径，与仓库名一致
+  // Cloudflare Pages 使用根路径 /
   base: '/',
   plugins: [
     vue(),
@@ -18,7 +18,6 @@ export default defineConfig({
   css: {
     preprocessorOptions: {
       scss: {
-        // 自动注入变量和混入，组件中无需手动 @use
         additionalData: `
           @use "@/assets/styles/_variables" as *;
           @use "@/assets/styles/_mixin" as *;
