@@ -198,11 +198,14 @@ const handleBack = () => {
       .score-oral-list,
       .score-written-list {
         margin: 3vmin;
+        padding: 0 3vmin;
         border: 0.26666667vmin solid #c8ddee;
         border-radius: 1.5vmin;
         box-shadow: 0 0 1.8vmin rgb(0 0 0/20%);
         .score-list-title {
           background: #edf3f9;
+          margin-left: -3vmin;
+          margin-right: -3vmin;
           border-top-right-radius: 1.5vmin;
           border-top-left-radius: 1.5vmin;
           font-size: 4vmin;
