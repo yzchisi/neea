@@ -172,7 +172,7 @@ const handleReset = () => {
         <!-- 历史成绩查询 -->
         <div class="main-form-history">
           <div class="main-form-history-container">
-            <p>查询2005年6月-2025年6月考试成绩，下载2021年6月-2025年6月考试电子成绩报告单（证书）。</p>
+            <p>查询2005年6月-2025年12月考试成绩，下载2021年6月-2025年12月考试电子成绩报告单（证书）。</p>
             <a href="#">历史成绩查询</a>
           </div>
         </div>
