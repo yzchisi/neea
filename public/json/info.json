@@ -18,6 +18,24 @@
       "noticeTime": "2月27日6时至3月1日17时"
     },
     {
+      "id": 2,
+      "mainTitle": "2026年上半年",
+      "subject": "CET6",
+      "uname": "陈**",
+      "idCardl": "33*************222",
+      "school": "浙江万里学院",
+      "scoreRoport": 231133011002059,
+      "writtenExamNum": 330112231103823,
+      "writtenTotal": 551,
+      "writtenListening": 215,
+      "writtenReading": 202,
+      "writtenWriting": 134,
+      "oralExamNum": "--",
+      "oralLevel": "--",
+      "noticeTime": "8月16日6时至8月18日17时"
+    }
+
+    {
       "id": 1,
       "mainTitle": "2026年下半年",
       "subject": "CET4",
