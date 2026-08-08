@@ -18,6 +18,23 @@
       "noticeTime": "2月27日6时至3月1日17时"
     },
     {
+    "id": 3,
+    "mainTitle": "2026年上半年",
+    "subject": "CET4",
+    "uname": "徐菁",
+    "idCardl": "320902200311181041",
+    "school": "郑州科技学院",
+    "scoreRoport": 231133011002059,
+    "writtenExamNum": 410300261121527,
+    "writtenTotal": 432,
+    "writtenListening": 161,
+    "writtenReading": 147,
+    "writtenWriting": 134,
+    "oralExamNum": "--",
+    "oralLevel": "--",
+    "noticeTime": "8月16日6时至8月18日17时"
+    },
+    {
       "id": 2,
       "mainTitle": "2026年上半年",
       "subject": "CET6",
