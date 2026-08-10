@@ -18,6 +18,23 @@
       "noticeTime": "2月27日6时至3月1日17时"
     },
     {
+    "id": 4,
+    "mainTitle": "2026年上半年",
+    "subject": "CET4",
+    "uname": "南润星",
+    "idCardl": "61048120070409582X",
+    "school": "湖南科技大学",
+    "scoreRoport": 251143011008210,
+    "writtenExamNum": 430111251116710,
+    "writtenTotal": 436,
+    "writtenListening": 142,
+    "writtenReading": 156,
+    "writtenWriting": 138,
+    "oralExamNum": "--",
+    "oralLevel": "--",
+    "noticeTime": "8月16日6时至8月18日17时"
+    },
+    {
     "id": 3,
     "mainTitle": "2026年上半年",
     "subject": "CET4",
