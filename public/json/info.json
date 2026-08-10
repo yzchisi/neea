@@ -18,6 +18,23 @@
       "noticeTime": "2月27日6时至3月1日17时"
     },
     {
+    "id": 5,
+    "mainTitle": "2026年上半年",
+    "subject": "CET6",
+    "uname": "李鑫",
+    "idCardl": "522422200412103202",
+    "school": "惠州学院",
+    "scoreRoport": 261210123456789,
+    "writtenExamNum": 1234567890123456,
+    "writtenTotal": 599,
+    "writtenListening": 182,
+    "writtenReading": 225,
+    "writtenWriting": 192,
+    "oralExamNum": "--",
+    "oralLevel": "--",
+    "noticeTime": "8月16日6时至8月18日17时"
+    },
+    {
     "id": 4,
     "mainTitle": "2026年上半年",
     "subject": "CET4",
