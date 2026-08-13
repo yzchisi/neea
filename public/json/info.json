@@ -1,6 +1,23 @@
 {
   "userInfo": [
     {
+    "id": 19,
+    "mainTitle": "2026年上半年",
+    "subject": "CET6",
+    "uname": "陈一鸣",
+    "idCardl": "360426200505301014",
+    "school": "长安大学",
+    "scoreRoport": 216237500192582,
+    "writtenExamNum": 340200672045227,
+    "writtenTotal": 572,
+    "writtenListening": 162,
+    "writtenReading": 234,
+    "writtenWriting": 176,
+    "oralExamNum": "--",
+    "oralLevel": "--",
+    "noticeTime": "8月16日6时至8月18日17时"
+    },
+    {
     "id": 18,
     "mainTitle": "2026年上半年",
     "subject": "CET4",
