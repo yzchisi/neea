@@ -1,6 +1,23 @@
 {
   "userInfo": [
     {
+    "id": 9,
+    "mainTitle": "2026年上半年",
+    "subject": "CET6",
+    "uname": "张元哲",
+    "idCardl": "371622200606081215",
+    "school": "山东科技大学",
+    "scoreRoport": 261210115323647,
+    "writtenExamNum": 370551261210810,
+    "writtenTotal": 532,
+    "writtenListening": 163,
+    "writtenReading": 187,
+    "writtenWriting": 182,
+    "oralExamNum": "--",
+    "oralLevel": "--",
+    "noticeTime": "8月16日6时至8月18日17时"
+    },
+    {
     "id": 8,
     "mainTitle": "2026年上半年",
     "subject": "CET4",
