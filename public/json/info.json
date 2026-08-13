@@ -1,6 +1,23 @@
 {
   "userInfo": [
     {
+    "id": 17,
+    "mainTitle": "2026年上半年",
+    "subject": "CET6",
+    "uname": "何秉彻",
+    "idCardl": "621002200708180218",
+    "school": "上海交通大学",
+    "scoreRoport": 252131002004114,
+    "writtenExamNum": 310020262109617,
+    "writtenTotal": 547,
+    "writtenListening": 194,
+    "writtenReading": 196,
+    "writtenWriting": 157,
+    "oralExamNum": "--",
+    "oralLevel": "--",
+    "noticeTime": "8月16日6时至8月18日17时"
+    },
+    {
     "id": 16,
     "mainTitle": "2026年上半年",
     "subject": "CET6",
