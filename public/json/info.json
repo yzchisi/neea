@@ -1,6 +1,23 @@
 {
   "userInfo": [
     {
+    "id": 33,
+    "mainTitle": "2026年上半年",
+    "subject": "CET6",
+    "uname": "贺劲秋",
+    "idCardl": "321102200608235765",
+    "school": "南京林业大学",
+    "scoreRoport": 2661202606073531,
+    "writtenExamNum": 340105261020406,
+    "writtenTotal": 616,
+    "writtenListening": 228,
+    "writtenReading": 231,
+    "writtenWriting": 157,
+    "oralExamNum": "--",
+    "oralLevel": "--",
+    "noticeTime": "8月16日6时至8月18日17时"
+    },
+    {
     "id": 32,
     "mainTitle": "2026年上半年",
     "subject": "CET4",
