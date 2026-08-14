@@ -1,6 +1,23 @@
 {
   "userInfo": [
     {
+    "id": 26,
+    "mainTitle": "2026年上半年",
+    "subject": "CET4",
+    "uname": "邓佰洋",
+    "idCardl": "440114200505011869",
+    "school": "东莞城市学院",
+    "scoreRoport": 262144110004857,
+    "writtenExamNum": 441100262208327,
+    "writtenTotal": 436,
+    "writtenListening": 150,
+    "writtenReading": 155,
+    "writtenWriting": 131,
+    "oralExamNum": "--",
+    "oralLevel": "--",
+    "noticeTime": "8月16日6时至8月18日17时"
+    },
+    {
     "id": 25,
     "mainTitle": "2026年上半年",
     "subject": "CET4",
