@@ -1,6 +1,23 @@
 {
   "userInfo": [
     {
+    "id": 25,
+    "mainTitle": "2026年上半年",
+    "subject": "CET4",
+    "uname": "王骏睿",
+    "idCardl": "130205200706223918",
+    "school": "河北美术学院",
+    "scoreRoport": 261113075002451,
+    "writtenExamNum": 130750261013028,
+    "writtenTotal": 441,
+    "writtenListening": 132,
+    "writtenReading": 174,
+    "writtenWriting": 135,
+    "oralExamNum": "--",
+    "oralLevel": "--",
+    "noticeTime": "8月16日6时至8月18日17时"
+    },
+    {
     "id": 24,
     "mainTitle": "2026年上半年",
     "subject": "CET6",
