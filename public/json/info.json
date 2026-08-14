@@ -1,6 +1,23 @@
 {
   "userInfo": [
     {
+    "id": 27,
+    "mainTitle": "2026年上半年",
+    "subject": "CET4",
+    "uname": "张曼琪",
+    "idCardl": "410323200511010088",
+    "school": "江西师范大学",
+    "scoreRoport": 261210123456789,
+    "writtenExamNum": 3461985736915831,
+    "writtenTotal": 459,
+    "writtenListening": 123,
+    "writtenReading": 176,
+    "writtenWriting": 160,
+    "oralExamNum": "--",
+    "oralLevel": "--",
+    "noticeTime": "8月16日6时至8月18日17时"
+    },
+    {
     "id": 26,
     "mainTitle": "2026年上半年",
     "subject": "CET4",
