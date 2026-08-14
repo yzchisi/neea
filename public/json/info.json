@@ -1,6 +1,23 @@
 {
   "userInfo": [
     {
+    "id": 34,
+    "mainTitle": "2026年上半年",
+    "subject": "CET6",
+    "uname": "郑晶莹",
+    "idCardl": "310115200510319089",
+    "school": "上海商学院",
+    "scoreRoport": 261210156780261,
+    "writtenExamNum": 310290151104302,
+    "writtenTotal": 503,
+    "writtenListening": 112,
+    "writtenReading": 200,
+    "writtenWriting": 192,
+    "oralExamNum": "--",
+    "oralLevel": "--",
+    "noticeTime": "8月16日6时至8月18日17时"
+    },
+    {
     "id": 33,
     "mainTitle": "2026年上半年",
     "subject": "CET6",
