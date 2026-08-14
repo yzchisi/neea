@@ -1,6 +1,23 @@
 {
   "userInfo": [
     {
+    "id": 30,
+    "mainTitle": "2026年上半年",
+    "subject": "CET6",
+    "uname": "袁乐融",
+    "idCardl": "522601200511300080",
+    "school": "贵州财经大学",
+    "scoreRoport": 251152007002356,
+    "writtenExamNum": 520072251105621,
+    "writtenTotal": 435,
+    "writtenListening": 150,
+    "writtenReading": 154,
+    "writtenWriting": 131,
+    "oralExamNum": "--",
+    "oralLevel": "--",
+    "noticeTime": "8月16日6时至8月18日17时"
+    },
+    {
     "id": 29,
     "mainTitle": "2026年上半年",
     "subject": "CET6",
