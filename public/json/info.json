@@ -1,6 +1,23 @@
 {
   "userInfo": [
     {
+    "id": 31,
+    "mainTitle": "2026年上半年",
+    "subject": "CET6",
+    "uname": "陈某兴",
+    "idCardl": "34082220070623262X",
+    "school": "安徽外国语学院",
+    "scoreRoport": 2661202606073542,
+    "writtenExamNum": 340105261020417,
+    "writtenTotal": 432,
+    "writtenListening": 146,
+    "writtenReading": 153,
+    "writtenWriting": 133,
+    "oralExamNum": "--",
+    "oralLevel": "--",
+    "noticeTime": "8月16日6时至8月18日17时"
+    },
+    {
     "id": 30,
     "mainTitle": "2026年上半年",
     "subject": "CET6",
