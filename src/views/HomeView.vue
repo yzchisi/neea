@@ -1,6 +1,6 @@
 <script setup>
 // 查分表单页面 - 对应原 index.html
-import { ref, computed, onMounted } from 'vue'
+import { ref, computed } from 'vue'
 import { useRouter } from 'vue-router'
 import { useScoreStore } from '@/stores/score'
 
@@ -28,15 +28,10 @@ const subjectText = computed(() => {
   return option ? option.text : ''
 })
 
-// 页面加载时获取考生数据
-onMounted(() => {
-  scoreStore.loadUserInfo()
-})
-
 /**
  * 表单提交处理 - 验证并跳转到成绩页
  */
-const handleSubmit = () => {
+const handleSubmit = async () => {
   // 节流判断
   if (!canSearch) {
     alert('请勿频繁提交，请稍后再试')
@@ -47,7 +42,8 @@ const handleSubmit = () => {
   const name = nameValue.value.trim()
   const idCard = idCardValue.value.trim()
 
-  const result = scoreStore.queryScore(subjectValue.value, subjectText.value, name, idCard)
+  // 增加 await
+  const result = await scoreStore.queryScore(subjectValue.value, subjectText.value, name, idCard)
 
   if (!result.success) {
     alert(result.message)
