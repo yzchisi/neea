@@ -7,6 +7,10 @@ import { useScoreStore } from '@/stores/score'
 const router = useRouter()
 const scoreStore = useScoreStore()
 
+// =====新增：查询节流控制=====
+let canSearch = true
+const SEARCH_COOLDOWN = 3000 // 冷却时间 3000毫秒=3秒，可以自行修改
+
 // 科目选项列表
 const subjectOptions = [
   { value: 'CET4', text: '全国大学英语四级考试(CET4)' },
@@ -33,6 +37,13 @@ onMounted(() => {
  * 表单提交处理 - 验证并跳转到成绩页
  */
 const handleSubmit = () => {
+  // 节流判断
+  if (!canSearch) {
+    alert('请勿频繁提交，请稍后再试')
+    return
+  }
+  canSearch = false
+
   const name = nameValue.value.trim()
   const idCard = idCardValue.value.trim()
 
@@ -40,11 +51,18 @@ const handleSubmit = () => {
 
   if (!result.success) {
     alert(result.message)
+    // 查询失败立刻解除锁定
+    canSearch = true
     return
   }
 
   // 查询成功，跳转到成绩页
   router.push('/score')
+
+  // 倒计时解锁查询按钮
+  setTimeout(() => {
+    canSearch = true
+  }, SEARCH_COOLDOWN)
 }
 
 /**
