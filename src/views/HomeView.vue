@@ -9,7 +9,7 @@ const scoreStore = useScoreStore()
 
 // =====新增：查询节流控制=====
 let canSearch = true
-const SEARCH_COOLDOWN = 3000 // 冷却时间 3000毫秒=3秒，可以自行修改
+const SEARCH_COOLDOWN = 1000 // 冷却时间 3000毫秒=3秒，可以自行修改
 
 // 科目选项列表
 const subjectOptions = [
